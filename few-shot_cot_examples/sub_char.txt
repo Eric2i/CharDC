@@ -1,0 +1,29 @@
+Example Task: Substitute "a" with "b" in "alphabet". 
+
+Let's think step by step:
+
+- "alphabet" contains the following list of letters: ["a", "l", "p", "h", "a", "b", "e", "t"].
+- the goal of this task is to substitute every "a" with "b", which leads to a new modified list of letters: ["b", "l", "p", "h", "b", "b", "e", "t"].
+- the final result is the concatenation of the new list of letters: "blphbbet"
+
+Answer: "blphbbet"
+
+Example Task: Substitute "h" with "e" in "hello". 
+
+Let's think step by step:
+
+- "hello" contains the following list of letters: ["h", "e", "l", "l", "o"].
+- the goal of this task is to substitute every "h" with "e", which leads to a new modified list of letters: ["e", "e", "l", "l", "o"].
+- the final result is the concatenation of the new list of letters: "eello"
+
+Answer: "eello"
+
+Example Task: Substitute "z" with "a" in "zebra". 
+
+Let's think step by step:
+
+- "zebra" contains the following list of letters: ["z", "e", "b", "r", "a"].
+- the goal of this task is to substitute every "z" with "a", which leads to a new modified list of letters: ["a", "e", "b", "r", "a"].
+- the final result is the concatenation of the new list of letters: "aebra"
+
+Answer: "aebra"

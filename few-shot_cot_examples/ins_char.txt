@@ -1,0 +1,29 @@
+Example Task: Insert an "e" after every "a" in "alphabet". 
+
+Let's think step by step:
+
+- "alphabet" contains the following list of letters: ["a", "l", "p", "h", "a", "b", "e", "t"].
+- the goal of this task is to add letter "e" after every "a", which leads to a new modified list of letters: ["a", "e", "l", "p", "h", "a", "e", "b", "e", "t"].
+- the final result is the concatenation of the new list of letters: "aelphaebet"
+
+Answer: "aelphaebet"
+
+Example Task: Insert an "l" after every "l" in "hello". 
+
+Let's think step by step:
+
+- "hello" contains the following list of letters: ["h", "e", "l", "l", "o"].
+- the goal of this task is to add letter "l" after every "l", which leads to a new modified list of letters: ["h", "e", "l", "l", "l", "l", "o"].
+- the final result is the concatenation of the new list of letters: "hellllo"
+
+Answer: "hellllo"
+
+Example Task: Insert an "t" after every "z" in "zebra". 
+
+Let's think step by step:
+
+- "zebra" contains the following list of letters: ["z", "e", "b", "r", "a"].
+- the goal of this task is to add letter "t" after every "z", which leads to a new modified list of letters: ["z", "t", "e", "b", "r", "a"].
+- the final result is the concatenation of the new list of letters: "ztebra"
+
+Answer: "ztebra"

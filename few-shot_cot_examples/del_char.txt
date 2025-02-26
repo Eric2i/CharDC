@@ -1,0 +1,29 @@
+Example Task: Delete every instance of "a" in "alphabet". 
+
+Let's think step by step:
+
+- "alphabet" contains the following list of letters: ["a", "l", "p", "h", "a", "b", "e", "t"].
+- the goal of this task is to remove letter "a", which leads a new modified list of letters: ["l", "p", "h", "b", "e", "t"].
+- the finall result is the concatenation of the new list of letters: "lphbet"
+
+Answer: "lphbet"
+
+Example Task: Delete every instance of "l" in "hello". 
+
+Let's think step by step:
+
+- "hello" contains the following list of letters: ["h", "e", "l", "l", "o"].
+- the goal of this task is to remove letter "l", which leads a new modified list of letters: ["h", "e", "o"].
+- the finall result is the concatenation of the new list of letters: "heo"
+
+Answer: "heo"
+
+Example Task: Delete every instance of "z" in "zebra". 
+
+Let's think step by step:
+
+- "zebra" contains the following list of letters: ["z", "e", "b", "r", "a"].
+- the goal of this task is to remove letter "z", which leads a new modified list of letters: ["e", "b", "r", "a"].
+- the finall result is the concatenation of the new list of letters: "ebra"
+
+Answer: "ebra"

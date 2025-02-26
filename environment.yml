@@ -1,0 +1,13 @@
+name: chardc
+channels:
+  - conda-forge
+dependencies:
+  - datasets
+  - ipykernel
+  - openai
+  - python
+  - scikit-learn
+  - seaborn
+  - tenacity
+  - transformers
+  - accelerate

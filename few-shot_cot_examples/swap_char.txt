@@ -1,0 +1,29 @@
+Example Task: Swap "l" and "b" in "alphabet". 
+
+Let's think step by step:
+
+- "alphabet" contains the following list of letters: ["a", "l", "p", "h", "a", "b", "e", "t"].
+- the goal of this task is to swap "l" and "b", which leads to a new modified list of letters: ["a", "b", "p", "h", "a", "l", "e", "t"].
+- the final result is the concatenation of the new list of letters: "abphalet"
+
+Answer: "abphalet"
+
+Example Task: Swap "h" and "e" in "hello". 
+
+Let's think step by step:
+
+- "hello" contains the following list of letters: ["h", "e", "l", "l", "o"].
+- the goal of this task is to swap "h" and "e", which leads to a new modified list of letters: ["e", "h", "l", "l", "o"].
+- the final result is the concatenation of the new list of letters: "ehllo"
+
+Answer: "ehllo"
+
+Example Task: Swap "z" and "a" in "zebra". 
+
+Let's think step by step:
+
+- "zebra" contains the following list of letters: ["z", "e", "b", "r", "a"].
+- the goal of this task is to swap "z" and "a", which leads to a new modified list of letters: ["a", "e", "b", "r", "z"].
+- the final result is the concatenation of the new list of letters: "aebrz"
+
+Answer: "aebrz"
