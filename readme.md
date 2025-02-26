@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="display: inline-block;">
-  <img src="assets/method.jpg" style="max-width: 75%;" />
+  <img src="assets/comparison.png" style="max-width: 61.8%;" />
 </div>
 
 ## 🔍 Overview
